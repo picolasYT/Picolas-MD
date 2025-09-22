@@ -33,7 +33,7 @@ global.enableSubBots = true
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 // Branding Picolas
-global.botname = "☆ Picolas-MD ☆"
+global.botname = "☆ {ℙ𝕚𝕔𝕠𝕝𝕒𝕤-𝐌𝐃} ☆"
 global.textbot = "Bot hecho con 💚 por | Picolas | "
 global.dev = "© Powered by Picolas"
 global.author = "© Picolas Dev Team"
